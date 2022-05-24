@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>video.png</file>
+    <file>setting2.png</file>
+    <file>Previous Video.png</file>
+    <file>video.png</file>
+    <file>Camera2.png</file>
+    <file>v.png</file>
+    <file>Camera.png</file>
+    <file>Setting.png</file>
+    <file>P Video.png</file>
+    <file>P Video.png</file>
+    <file>B Video.png</file>
+    <file>Video4.png</file>
+    <file>P3 Video.jfif</file>
+    <file>P3 Video.jpg</file>
+    <file>Camera3.jpg</file>
+    <file>Qt_UI.ui</file>
+  </qresource>
+</RCC>
