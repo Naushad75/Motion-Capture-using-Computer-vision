@@ -93,9 +93,9 @@ class Window(QtWidgets.QMainWindow):
         db.delete(capture)
         db.commit()
         try:
-            os.unlink(f"{capture.name}")
-        except:
-            pass
+            os.unlink(f"{capture.filename}")
+        except Exception as e:
+            print(e)
         dialog.close()
         self.setting_view()
 
